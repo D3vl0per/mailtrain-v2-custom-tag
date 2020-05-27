@@ -1,0 +1,1 @@
+FROM mailtrain/mailtrain:latest
